@@ -1,0 +1,1 @@
+﻿MSTestProject3 - A testing project that uses tests defined in a classes in a "Tests" NuGet packaged library, and runs those tests on an instance provided by a derived class in the testing library.
