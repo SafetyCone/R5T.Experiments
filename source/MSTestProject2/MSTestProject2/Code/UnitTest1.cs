@@ -1,7 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-using MSTestProject1.Lib;
-
 
 namespace MSTestProject2
 {
