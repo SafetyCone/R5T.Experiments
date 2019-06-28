@@ -1,0 +1,7 @@
+﻿MSTest.TestsLibrary - A NuGet package of test classes.
+
+Includes the "MSTest.TestFramework" Version="1.3.2" package.
+
+Even though the tests in the library are *discoverable* but the Visual Studio Test Explorer, the library of tests is NOT itself runnable by the Visual Studio Test Explorer! This is because it does not specify a runtime, unlike MSTest projects which specify the .NET Core App runtime.
+
+Thus the library of tests must be included included in a test project somehow...

@@ -1,0 +1,5 @@
+﻿MSTest.TestsLibrary.Testing - An MSTest project that references the MSTest.TestsLibrary library containing test classes.
+
+Are those tests in the library classes runnable by the Visual Studio Test Explorer if the tests project is referenced from a test project?
+
+ NO! The Visual Studio Test Explorer runs tests on each assembly by itself. Thus the library cannot be testing since it is not a test library!
