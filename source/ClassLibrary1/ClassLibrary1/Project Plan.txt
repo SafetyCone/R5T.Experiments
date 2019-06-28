@@ -1,0 +1,1 @@
+﻿ClassLibrary1 - A basic .NET Standard class-library.
