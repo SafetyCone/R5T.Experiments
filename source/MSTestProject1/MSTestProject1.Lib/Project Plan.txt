@@ -1,0 +1,1 @@
+﻿MSTestProject1.Lib - A library of test-classes to how Visual Studio handles test-classes in library projects referenced by a test-project.
