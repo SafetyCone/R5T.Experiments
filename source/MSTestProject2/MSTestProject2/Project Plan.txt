@@ -1,0 +1,1 @@
+﻿MSTestProject2 - Test project to see if test-classes included via NuGet package appear in the Visual Studio Test Explorer.
